@@ -1,0 +1,68 @@
+[{
+        "id": 1,
+        "name": "Fried Chicken",
+        "ingredients": ["1 whole chicken, cut into 10 pieces", "2 cups buttermilk", "2 cups all-purpose flour", "1 tablespoon salt", "1 tablespoon black pepper", "1 tablespoon paprika", "1/2 tablespoon cayenne pepper", "Oil, for frying"],
+        "cooking_method": [
+            "In a large bowl, soak chicken pieces in buttermilk for at least 1 hour or overnight in the refrigerator.",
+            "In a separate bowl, combine flour, salt, black pepper, paprika, and cayenne pepper.",
+            "Dredge chicken pieces in flour mixture, shaking off any excess.",
+            "Heat oil in a large skillet or deep fryer to 350°F.",
+            "Fry chicken in batches until golden brown and cooked through, about 15 minutes.",
+            "Transfer fried chicken to a wire rack to drain excess oil.",
+            "Serve hot or cold."
+        ],
+        "rating": 4.8
+    },
+    {
+        "id": 2,
+        "name": "Mac and Cheese",
+        "ingredients": [
+            "1 pound elbow macaroni",
+            "4 tablespoons unsalted butter",
+            "4 tablespoons all-purpose flour",
+            "4 cups whole milk",
+            "1 teaspoon salt",
+            "1/2 teaspoon black pepper",
+            "1/2 teaspoon garlic powder",
+            "1/2 teaspoon onion powder",
+            "2 cups shredded cheddar cheese"
+        ],
+        "cooking_method": [
+            "Cook macaroni according to package instructions.",
+            "In a separate pot, melt butter over medium heat.",
+            "Whisk in flour until smooth and bubbly.",
+            "Gradually whisk in milk, salt, black pepper, garlic powder, and onion powder.",
+            "Cook, stirring constantly, until sauce thickens and bubbles.",
+            "Reduce heat to low and stir in shredded cheddar cheese until melted and smooth.",
+            "Drain macaroni and stir into cheese sauce.",
+            "Serve hot."
+        ],
+        "rating": 4.5
+    },
+    {
+        "id": 3,
+        "name": "BBQ Ribs",
+        "ingredients": [
+            "2 racks baby back ribs",
+            "1/2 cup brown sugar",
+            "2 tablespoons smoked paprika",
+            "2 teaspoons garlic powder",
+            "2 teaspoons onion powder",
+            "1 teaspoon salt",
+            "1/2 teaspoon black pepper",
+            "1 cup BBQ sauce"
+        ],
+        "cooking_method": [
+            "Preheat oven to 275°F.",
+            "Remove the silver skin from the back of each rack of ribs.",
+            "In a small bowl, mix together brown sugar, smoked paprika, garlic powder, onion powder, salt, and black pepper.",
+            "Rub spice mixture over both sides of ribs.",
+            "Wrap each rack of ribs tightly in aluminum foil.",
+            "Bake ribs in the oven for 3 hours.",
+            "Remove ribs from foil and brush with BBQ sauce.",
+            "Grill ribs over high heat until caramelized and slightly charred, about 2-3 minutes per side.",
+            "Serve hot with additional BBQ sauce."
+        ],
+        "rating": 4.7
+    }
+]

@@ -1,6 +1,6 @@
 [{
     "id": 1,
-    "picture": "https://example.com/chef1.jpg",
+    "picture": "https://html.webinane.com/assets/images/resources/main-chef.png",
     "name": "John Smith",
     "years_of_experience": 15,
     "num_recipes": 100,
@@ -8,7 +8,7 @@
     "bio": "John Smith is a renowned chef with over 15 years of experience in the culinary industry. He specializes in French cuisine and has created a number of award-winning dishes."
 }, {
     "id": 2,
-    "picture": "https://example.com/chef2.jpg",
+    "picture": "https://html.webinane.com/assets/images/resources/main-chef.png",
     "name": "Jane Doe",
     "years_of_experience": 10,
     "num_recipes": 75,
@@ -16,7 +16,7 @@
     "bio": "Jane Doe is an accomplished chef who has worked in some of the top restaurants in the world. She is known for her innovative approach to fusion cuisine and has created many popular dishes."
 }, {
     "id": 3,
-    "picture": "https://example.com/chef3.jpg",
+    "picture": "https://html.webinane.com/assets/images/resources/main-chef.png",
     "name": "David Lee",
     "years_of_experience": 20,
     "num_recipes": 200,
@@ -24,7 +24,7 @@
     "bio": "David Lee is a veteran chef with over 20 years of experience in the industry. He has worked in a variety of culinary environments, from high-end restaurants to food trucks, and has developed a unique style that blends traditional and modern techniques."
 }, {
     "id": 4,
-    "picture": "https://example.com/chef4.jpg",
+    "picture": "https://html.webinane.com/assets/images/resources/main-chef.png",
     "name": "Maria Rodriguez",
     "years_of_experience": 8,
     "num_recipes": 50,
@@ -32,7 +32,7 @@
     "bio": "Maria Rodriguez is a rising star in the culinary world with a passion for creating healthy and delicious dishes. She specializes in plant-based cooking and has developed a number of popular vegan recipes."
 }, {
     "id": 5,
-    "picture": "https://example.com/chef5.jpg",
+    "picture": "https://html.webinane.com/assets/images/resources/main-chef.png",
     "name": "Thomas Nguyen",
     "years_of_experience": 12,
     "num_recipes": 90,
@@ -40,7 +40,7 @@
     "bio": "Thomas Nguyen is a chef with a diverse culinary background, having trained in both French and Vietnamese cuisine. He has worked in a variety of kitchens, from fine dining restaurants to food trucks, and has created many popular dishes that fuse the flavors of his two cultures."
 }, {
     "id": 6,
-    "picture": "https://example.com/chef6.jpg",
+    "picture": "https://html.webinane.com/assets/images/resources/main-chef.png",
     "name": "Alicia Johnson",
     "years_of_experience": 7,
     "num_recipes": 40,
