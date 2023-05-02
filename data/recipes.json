@@ -1,7 +1,17 @@
 [{
-        "id": 1,
+        "id": "b08cfebbcf6a502c6e34",
         "name": "Fried Chicken",
-        "ingredients": ["1 whole chicken, cut into 10 pieces", "2 cups buttermilk", "2 cups all-purpose flour", "1 tablespoon salt", "1 tablespoon black pepper", "1 tablespoon paprika", "1/2 tablespoon cayenne pepper", "Oil, for frying"],
+        "chef_id": "2",
+        "ingredients": [
+            "1 whole chicken, cut into 10 pieces",
+            "2 cups buttermilk",
+            "2 cups all-purpose flour",
+            "1 tablespoon salt",
+            "1 tablespoon black pepper",
+            "1 tablespoon paprika",
+            "1/2 tablespoon cayenne pepper",
+            "Oil, for frying"
+        ],
         "cooking_method": [
             "In a large bowl, soak chicken pieces in buttermilk for at least 1 hour or overnight in the refrigerator.",
             "In a separate bowl, combine flour, salt, black pepper, paprika, and cayenne pepper.",
@@ -14,8 +24,9 @@
         "rating": 4.8
     },
     {
-        "id": 2,
+        "id": "a9e13a416a894cfe1d12",
         "name": "Mac and Cheese",
+        "chef_id": "1",
         "ingredients": [
             "1 pound elbow macaroni",
             "4 tablespoons unsalted butter",
@@ -40,8 +51,9 @@
         "rating": 4.5
     },
     {
-        "id": 3,
+        "id": "89c7fe056f2a90d43427",
         "name": "BBQ Ribs",
+        "chef_id": "1",
         "ingredients": [
             "2 racks baby back ribs",
             "1/2 cup brown sugar",
@@ -64,5 +76,227 @@
             "Serve hot with additional BBQ sauce."
         ],
         "rating": 4.7
+    },
+    {
+        "id": "57d4c4cb4dd4c75b44c7",
+        "name": "Collard Greens",
+        "chef_id": "2",
+        "ingredients": [
+            "1 bunch collard greens, washed and chopped",
+            "4 slices of bacon, chopped",
+            "1 onion, chopped",
+            "2 cloves garlic, minced",
+            "2 cups chicken broth",
+            "1 tablespoon apple cider vinegar",
+            "1 teaspoon salt",
+            "1/2 teaspoon black pepper",
+            "1/4 teaspoon red pepper flakes"
+        ],
+        "cooking_method": [
+            "In a large pot, cook the bacon over medium heat until crispy.",
+            "Add the onion and garlic to the pot and sauté until the onion is translucent.",
+            "Add the collard greens to the pot and stir until they are coated with the bacon fat.",
+            "Add the chicken broth, apple cider vinegar, salt, black pepper, and red pepper flakes to the pot.",
+            "Cover the pot and simmer for 30-40 minutes, or until the collard greens are tender.",
+            "Adjust seasoning as needed and serve hot."
+        ],
+        "rating": 4.5
+    },
+    {
+        "id": "e74ecb46699e5b9d7d5f",
+        "name": "Buffalo Chicken Wings",
+        "chef_id": "3",
+        "ingredients": [
+            "2 lbs chicken wings",
+            "1/4 cup all-purpose flour",
+            "1/4 teaspoon cayenne pepper",
+            "1/4 teaspoon garlic powder",
+            "1/4 teaspoon salt",
+            "1/4 cup unsalted butter",
+            "1/4 cup hot sauce",
+            "1 tablespoon honey",
+            "1/2 teaspoon apple cider vinegar",
+            "Ranch or blue cheese dressing, for serving"
+        ],
+        "cooking_method": [
+            "Preheat oven to 400°F.",
+            "In a large bowl, mix together flour, cayenne pepper, garlic powder, and salt.",
+            "Add chicken wings to the bowl and toss to coat.",
+            "Arrange the chicken wings in a single layer on a baking sheet and bake for 45 minutes, flipping the wings halfway through.",
+            "While the chicken wings are baking, melt the butter in a small saucepan over medium heat.",
+            "Add hot sauce, honey, and apple cider vinegar to the saucepan and stir to combine.",
+            "When the chicken wings are done, remove them from the oven and toss them in the hot sauce mixture.",
+            "Serve hot with ranch or blue cheese dressing."
+        ],
+        "rating": 4.8
+    },
+    {
+        "id": "b31cc769ed915a2f28d8",
+        "name": "Philly Cheesesteak",
+        "chef_id": "2",
+        "ingredients": [
+            "1 lb ribeye steak, thinly sliced",
+            "4 hoagie rolls",
+            "1 onion, sliced",
+            "1 green bell pepper, sliced",
+            "4 slices American cheese",
+            "2 tablespoons butter",
+            "Salt and pepper, to taste"
+        ],
+        "cooking_method": [
+            "Preheat a cast iron skillet over medium-high heat.",
+            "Add sliced onions and green peppers to the skillet and sauté until tender.",
+            "Remove the onions and green peppers from the skillet and set aside.",
+            "Add the thinly sliced ribeye steak to the same skillet and season with salt and pepper.",
+            "Cook the steak for 2-3 minutes or until browned.",
+            "Add the sautéed onions and green peppers back into the skillet with the steak and mix well.",
+            "Place a slice of American cheese on top of the steak and vegetables mixture, and let it melt.",
+            "Using a spatula, transfer the steak and cheese mixture to a hoagie roll.",
+            "Repeat with the remaining rolls and steak mixture.",
+            "Serve hot."
+        ],
+        "rating": 4.7
+    },
+    {
+        "id": "7b5e54b9d55dfe8e3f1b",
+        "name": "Southern Fried Chicken",
+        "chef_id": "1",
+        "ingredients": [
+            "1 whole chicken, cut into pieces",
+            "2 cups buttermilk",
+            "2 cups all-purpose flour",
+            "2 tablespoons paprika",
+            "2 tablespoons garlic powder",
+            "2 tablespoons onion powder",
+            "2 teaspoons cayenne pepper",
+            "2 teaspoons salt",
+            "1 teaspoon black pepper",
+            "Vegetable oil, for frying"
+        ],
+        "cooking_method": [
+            "Place the chicken pieces in a large bowl and pour the buttermilk over them.",
+            "Cover the bowl with plastic wrap and refrigerate for at least 2 hours or overnight.",
+            "In a separate large bowl, whisk together the flour, paprika, garlic powder, onion powder, cayenne pepper, salt, and black pepper.",
+            "Remove the chicken from the buttermilk and let the excess buttermilk drip off.",
+            "Dredge the chicken pieces in the flour mixture, pressing the flour mixture onto the chicken to coat well.",
+            "In a large skillet or Dutch oven, heat about 2 inches of vegetable oil over medium-high heat to 350°F.",
+            "Working in batches, add the chicken to the hot oil and fry until golden brown and crispy, turning occasionally, about 15-20 minutes.",
+            "Remove the chicken from the oil and place it on a wire rack to drain.",
+            "Serve hot."
+        ],
+        "rating": 4.9
+    },
+    {
+        "id": "cda18184f8e16cde4847",
+        "name": "New England Clam Chowder",
+        "chef_id": "3",
+        "ingredients": [
+            "6 slices bacon, chopped",
+            "1 onion, diced",
+            "2 stalks celery, diced",
+            "3 tablespoons all-purpose flour",
+            "3 cups clam juice",
+            "2 cups half-and-half",
+            "1 bay leaf",
+            "1 teaspoon dried thyme",
+            "1 pound Yukon Gold potatoes, peeled and diced",
+            "3 cans (6.5 ounces each) chopped clams, drained",
+            "Salt and pepper, to taste",
+            "Chopped fresh parsley, for garnish"
+        ],
+        "cooking_method": [
+            "In a large pot, cook the bacon over medium heat until crispy.",
+            "Remove the bacon with a slotted spoon and set aside on a paper towel-lined plate.",
+            "Add the onion and celery to the pot and cook until tender, stirring occasionally.",
+            "Add the flour to the pot and stir to combine.",
+            "Gradually add the clam juice and half-and-half, stirring constantly.",
+            "Add the bay leaf, thyme, and potatoes to the pot and bring to a simmer.",
+            "Simmer until the potatoes are tender, about 20-25 minutes.",
+            "Add the clams to the pot and cook for 5 minutes more.",
+            "Season with salt and pepper, to taste.",
+            "Ladle the chowder into bowls and sprinkle with the crispy bacon and chopped parsley.",
+            "Serve hot."
+        ],
+        "rating": 4.5
+    },
+    {
+        "id": "0d9e73dbf93c6f640b09",
+        "name": "Cornbread",
+        "chef_id": "6",
+        "ingredients": [
+            "1 cup all-purpose flour",
+            "1 cup yellow cornmeal",
+            "1/4 cup granulated sugar",
+            "4 teaspoons baking powder",
+            "1/2 teaspoon salt",
+            "1 cup milk",
+            "2 large eggs",
+            "1/4 cup vegetable oil"
+        ],
+        "cooking_method": [
+            "Preheat the oven to 400°F.",
+            "In a large bowl, whisk together the flour, cornmeal, sugar, baking powder, and salt.",
+            "In a separate bowl, whisk together the milk, eggs, and vegetable oil.",
+            "Add the wet ingredients to the dry ingredients and stir until just combined.",
+            "Pour the batter into a greased 8-inch square baking pan.",
+            "Bake for 20-25 minutes or until a toothpick inserted in the center comes out clean.",
+            "Remove from the oven and let cool for a few minutes before slicing and serving."
+        ],
+        "rating": 4.2
+    },
+    {
+        "id": "1d4638d72907a2ed0cfe",
+        "name": "Chili",
+        "chef_id": "3"
+    },
+    {
+        "id": "9f3f7c5a5a8dc1cfcfa5",
+        "name": "Meatloaf",
+        "chef_id": "4"
+    },
+    {
+        "id": "37f1c8e2b2d9e9f87c15",
+        "name": "Fried Catfish",
+        "chef_id": "6"
+    },
+    {
+        "id": "8bfbf2b312d50c26a50b",
+        "name": "Biscuits and Gravy",
+        "chef_id": "4"
+    },
+    {
+        "id": "f6d9d14e1df27c70db6f",
+        "name": "Jambalaya",
+        "chef_id": "6"
+    },
+    {
+        "id": "3c6d2c2f041db8c73971",
+        "name": "Pulled Pork",
+        "chef_id": "4"
+    },
+    {
+        "id": "6e1c3daabf0c23f3df3d",
+        "name": "Potato Salad",
+        "chef_id": "5"
+    },
+    {
+        "id": "ba2db835f8d7290d9b9e",
+        "name": "Gumbo",
+        "chef_id": "5"
+    },
+    {
+        "id": "1a8a7ab2c60b01f12224",
+        "name": "Sloppy Joes",
+        "chef_id": "4"
+    },
+    {
+        "id": "cd8b69d584f62aae7cf5",
+        "name": "Fried Green Tomatoes",
+        "chef_id": "5"
+    },
+    {
+        "id": "8e1d914d44fcb5e5a5b5",
+        "name": "Collard Greens",
+        "chef_id": "2"
     }
 ]
