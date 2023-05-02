@@ -2,6 +2,7 @@
         "id": "b08cfebbcf6a502c6e34",
         "name": "Fried Chicken",
         "chef_id": "2",
+        "image": "https://images.unsplash.com/photo-1626082929543-5bab0f090c42?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
         "ingredients": [
             "1 whole chicken, cut into 10 pieces",
             "2 cups buttermilk",
@@ -27,6 +28,7 @@
         "id": "a9e13a416a894cfe1d12",
         "name": "Mac and Cheese",
         "chef_id": "1",
+        "image": "https://www.allrecipes.com/thmb/X94tJBe-nYseXIbMXo03pVXWnRA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/238691-Simple-Macaroni-And-Cheese-mfs_008-7a50b284b67140919a0984093cb4611b.jpg",
         "ingredients": [
             "1 pound elbow macaroni",
             "4 tablespoons unsalted butter",
@@ -54,6 +56,7 @@
         "id": "89c7fe056f2a90d43427",
         "name": "BBQ Ribs",
         "chef_id": "1",
+        "image": "https://www.southernliving.com/thmb/sQ3jAjFAP-SPt_upe-Im4rxMKrQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/oven-baked-baby-back-ribs-beauty-332_preview-34579f7f15ed4548ae3bb5b2048aab60.jpg",
         "ingredients": [
             "2 racks baby back ribs",
             "1/2 cup brown sugar",
@@ -81,6 +84,7 @@
         "id": "57d4c4cb4dd4c75b44c7",
         "name": "Collard Greens",
         "chef_id": "2",
+        "image": "https://www.allrecipes.com/thmb/RL7J_uLFzYE2C1CkSU8d-FFjjgs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/235931-SouthernStyleCollardGreens-mfs-2X3-0971-f547144dadbb485c90cd8f80668c20b0.jpg",
         "ingredients": [
             "1 bunch collard greens, washed and chopped",
             "4 slices of bacon, chopped",
@@ -106,6 +110,7 @@
         "id": "e74ecb46699e5b9d7d5f",
         "name": "Buffalo Chicken Wings",
         "chef_id": "3",
+        "image": "https://hips.hearstapps.com/hmg-prod/images/classic-buffalo-wings-horizontal-279-1547506155.jpg?crop=1xw:0.84375xh;center,top",
         "ingredients": [
             "2 lbs chicken wings",
             "1/4 cup all-purpose flour",
@@ -134,6 +139,7 @@
         "id": "b31cc769ed915a2f28d8",
         "name": "Philly Cheesesteak",
         "chef_id": "2",
+        "image": "https://www.simplyrecipes.com/thmb/4QRPMwVS6qgbFr2mQVi7hVzuh_0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Simply-Recipes-Philly-Cheesesteak-LEAD-2-b182ca21d19344159d44efd361db1477.jpg",
         "ingredients": [
             "1 lb ribeye steak, thinly sliced",
             "4 hoagie rolls",
@@ -161,6 +167,7 @@
         "id": "7b5e54b9d55dfe8e3f1b",
         "name": "Southern Fried Chicken",
         "chef_id": "1",
+        "image": "https://static.onecms.io/wp-content/uploads/sites/43/2022/12/16/178809-southern-style-buttermilk-fried-chicken-4x3-1318.jpg",
         "ingredients": [
             "1 whole chicken, cut into pieces",
             "2 cups buttermilk",
@@ -190,6 +197,7 @@
         "id": "cda18184f8e16cde4847",
         "name": "New England Clam Chowder",
         "chef_id": "3",
+        "image": "https://www.allrecipes.com/thmb/UMjIKp8nDzr6dyjn9d1e7NzzGiA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/17893-new-england-clam-chowder-II-Allrecipes-Magazine-4x3-1-eedf77d1d1794f3daa2863658b5b289e.jpg",
         "ingredients": [
             "6 slices bacon, chopped",
             "1 onion, diced",
@@ -223,6 +231,7 @@
         "id": "0d9e73dbf93c6f640b09",
         "name": "Cornbread",
         "chef_id": "6",
+        "image": "https://www.allrecipes.com/thmb/6kGXqe4FRcidsipERGY_W87UJUo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/146572-sweet-cornbread-cake-ddmfs-3X4-1286-1-281a749b44694839a8565012b949ebdb.jpg",
         "ingredients": [
             "1 cup all-purpose flour",
             "1 cup yellow cornmeal",
@@ -247,56 +256,314 @@
     {
         "id": "1d4638d72907a2ed0cfe",
         "name": "Chili",
-        "chef_id": "3"
+        "chef_id": "3",
+        "image": "https://www.allrecipes.com/thmb/UvvDUmIj0cl3FxA9ESEbA7EW3eU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/233613-Best-Damn-Chili-mfs-242-add30d5ed848426da015147a352ae662.jpg",
+        "ingredients": [
+            "1 pound ground beef",
+            "1 onion, chopped",
+            "2 cloves garlic, minced",
+            "1 red bell pepper, chopped",
+            "1 can (15 ounces) kidney beans, drained and rinsed",
+            "1 can (15 ounces) black beans, drained and rinsed",
+            "1 can (14.5 ounces) diced tomatoes, undrained",
+            "1 can (8 ounces) tomato sauce",
+            "1 tablespoon chili powder",
+            "1 teaspoon ground cumin",
+            "1/2 teaspoon salt",
+            "1/4 teaspoon black pepper",
+            "1/4 teaspoon cayenne pepper",
+            "1/4 teaspoon paprika",
+            "1 cup water",
+            "Sour cream and shredded cheddar cheese, for garnish"
+        ],
+        "cooking_method": [
+            "In a large pot or Dutch oven, cook the ground beef over medium heat until browned, breaking it up into small pieces with a spoon.",
+            "Add the onion, garlic, and red bell pepper to the pot and cook until the vegetables are tender.",
+            "Add the kidney beans, black beans, diced tomatoes, tomato sauce, chili powder, cumin, salt, black pepper, cayenne pepper, paprika, and water to the pot.",
+            "Bring the chili to a boil, then reduce the heat to low and simmer for 30-45 minutes, stirring occasionally.",
+            "Serve hot, garnished with sour cream and shredded cheddar cheese."
+        ],
+        "rating": 4.7
     },
     {
         "id": "9f3f7c5a5a8dc1cfcfa5",
         "name": "Meatloaf",
-        "chef_id": "4"
+        "chef_id": "4",
+        "image": "https://www.budgetbytes.com/wp-content/uploads/2021/09/Classic-Meatloaf-side.jpg",
+        "ingredients": [
+            "2 pounds ground beef",
+            "1 onion, chopped",
+            "2 cloves garlic, minced",
+            "1 cup breadcrumbs",
+            "2 eggs",
+            "1/4 cup milk",
+            "1/4 cup ketchup",
+            "2 tablespoons Worcestershire sauce",
+            "1 tablespoon Dijon mustard",
+            "1 teaspoon salt",
+            "1/4 teaspoon black pepper",
+            "1/4 cup chopped fresh parsley",
+            "1/4 cup chopped fresh thyme",
+            "1/4 cup chopped fresh rosemary"
+        ],
+        "cooking_method": [
+            "Preheat the oven to 350°F.",
+            "In a large bowl, mix together the ground beef, onion, garlic, breadcrumbs, eggs, milk, ketchup, Worcestershire sauce, Dijon mustard, salt, black pepper, parsley, thyme, and rosemary.",
+            "Shape the mixture into a loaf and place it in a baking dish.",
+            "Bake for 1 hour or until the internal temperature reaches 160°F.",
+            "Remove the meatloaf from the oven and let it rest for 10 minutes before slicing and serving."
+        ],
+        "rating": 4.5
     },
     {
         "id": "37f1c8e2b2d9e9f87c15",
         "name": "Fried Catfish",
-        "chef_id": "6"
+        "chef_id": "6",
+        "image": "https://images.unsplash.com/photo-1662041648634-684d7d09ebbf?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+        "ingredients": [
+            "4 catfish fillets",
+            "1 cup cornmeal",
+            "1/2 cup all-purpose flour",
+            "1 tablespoon garlic powder",
+            "1 tablespoon paprika",
+            "1/2 teaspoon salt",
+            "1/4 teaspoon cayenne pepper",
+            "1 cup buttermilk",
+            "Oil, for frying"
+        ],
+        "cooking_method": [
+            "In a large bowl, mix together the cornmeal, flour, garlic powder, paprika, salt, and cayenne pepper.",
+            "Pour the buttermilk into a separate bowl.",
+            "Dip each catfish fillet into the buttermilk, then dredge it in the cornmeal mixture, shaking off any excess.",
+            "Heat the oil in a deep frying pan over medium-high heat.",
+            "Add the catfish fillets to the pan and fry until golden brown, about 3-4 minutes per side.",
+            "Remove the catfish fillets from the pan with a slotted spoon and place them on a paper towel-lined plate to drain any excess oil.",
+            "Serve hot with your favorite dipping sauce."
+        ],
+        "rating": 4.8
     },
     {
         "id": "8bfbf2b312d50c26a50b",
         "name": "Biscuits and Gravy",
-        "chef_id": "4"
+        "chef_id": "4",
+        "image": "https://plus.unsplash.com/premium_photo-1669727915268-88f28ee92af4?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8QmlzY3VpdHMlMjBhbmQlMjBHcmF2eXxlbnwwfDB8MHx8&auto=format&fit=crop&w=600&q=60",
+        "ingredients": [
+            "1 pound breakfast sausage",
+            "1/4 cup all-purpose flour",
+            "2 cups whole milk",
+            "1/2 teaspoon salt",
+            "1/4 teaspoon black pepper",
+            "8 biscuits, homemade or store-bought"
+        ],
+        "cooking_method": [
+            "In a large skillet over medium-high heat, cook the breakfast sausage until browned and crumbled.",
+            "Sprinkle the flour over the sausage and stir until well combined.",
+            "Gradually stir in the milk, salt, and black pepper, stirring constantly until the mixture thickens, about 5-7 minutes.",
+            "Reduce the heat to low and simmer the gravy for 2-3 minutes.",
+            "Split the biscuits in half and place them on plates.",
+            "Ladle the sausage gravy over the biscuits.",
+            "Serve hot and enjoy!"
+        ],
+        "rating": 4.7
     },
     {
         "id": "f6d9d14e1df27c70db6f",
         "name": "Jambalaya",
-        "chef_id": "6"
+        "chef_id": "6",
+        "image": "https://i2.wp.com/www.downshiftology.com/wp-content/uploads/2023/02/Jambalaya-main.jpg",
+        "ingredients": [
+            "1 pound andouille sausage, sliced",
+            "1 pound boneless, skinless chicken thighs, cut into bite-size pieces",
+            "1 large onion, chopped",
+            "1 green bell pepper, chopped",
+            "2 celery stalks, chopped",
+            "4 garlic cloves, minced",
+            "1 can (14.5 ounces) diced tomatoes, drained",
+            "1 tablespoon Cajun seasoning",
+            "1 teaspoon paprika",
+            "1/2 teaspoon dried thyme",
+            "1/2 teaspoon dried oregano",
+            "1/4 teaspoon cayenne pepper",
+            "2 cups chicken broth",
+            "1 cup long-grain white rice",
+            "Salt and black pepper, to taste",
+            "Green onions, chopped, for garnish"
+        ],
+        "cooking_method": [
+            "In a large Dutch oven over medium heat, cook the andouille sausage until browned, about 5-7 minutes.",
+            "Add the chicken to the pot and cook until browned, about 5 minutes.",
+            "Add the onion, bell pepper, celery, and garlic to the pot and cook until softened, about 5-7 minutes.",
+            "Add the diced tomatoes, Cajun seasoning, paprika, thyme, oregano, and cayenne pepper to the pot and stir until well combined.",
+            "Pour in the chicken broth and bring the mixture to a simmer.",
+            "Add the rice to the pot and stir until well combined.",
+            "Cover the pot and simmer until the rice is tender and the liquid is absorbed, about 20-25 minutes.",
+            "Season with salt and black pepper, to taste.",
+            "Garnish with chopped green onions before serving."
+        ],
+        "rating": 4.9
     },
     {
         "id": "3c6d2c2f041db8c73971",
         "name": "Pulled Pork",
-        "chef_id": "4"
+        "chef_id": "4",
+        "image": "https://www.foodnetwork.com/content/dam/images/food/fullset/2014/8/5/0/WU0710H_Pulled-Pork_s4x3.jpg",
+        "ingredients": [
+            "5-6 pound pork shoulder or Boston butt roast",
+            "1 tablespoon smoked paprika",
+            "1 tablespoon garlic powder",
+            "1 tablespoon onion powder",
+            "1 tablespoon brown sugar",
+            "2 teaspoons salt",
+            "1 teaspoon black pepper",
+            "1/2 teaspoon cayenne pepper",
+            "1 cup chicken broth",
+            "1/2 cup apple cider vinegar",
+            "1/2 cup barbecue sauce, plus more for serving"
+        ],
+        "cooking_method": [
+            "In a small bowl, whisk together the smoked paprika, garlic powder, onion powder, brown sugar, salt, black pepper, and cayenne pepper.",
+            "Rub the spice mixture all over the pork shoulder, making sure to cover the entire surface.",
+            "Place the pork shoulder in a slow cooker and pour in the chicken broth and apple cider vinegar.",
+            "Cover the slow cooker and cook on low for 8-10 hours, or until the pork is very tender and falls apart easily with a fork.",
+            "Remove the pork from the slow cooker and transfer it to a cutting board.",
+            "Using two forks, shred the pork into bite-size pieces.",
+            "Stir in the barbecue sauce until the pork is coated and heated through.",
+            "Serve the pulled pork with additional barbecue sauce and your favorite sides, such as coleslaw and cornbread."
+        ],
+        "rating": 4.8
     },
     {
         "id": "6e1c3daabf0c23f3df3d",
         "name": "Potato Salad",
-        "chef_id": "5"
+        "chef_id": "5",
+        "image": "https://www.freshoffthegrid.com/wp-content/uploads/Potato-salad-10.jpg",
+        "ingredients": ["3 lbs red potatoes", "1/2 cup mayonnaise", "1/2 cup sour cream", "1/4 cup dill pickle relish", "2 tablespoons Dijon mustard", "1 teaspoon garlic powder", "1 teaspoon onion powder", "1/2 teaspoon paprika", "Salt and pepper to taste", "3 hard-boiled eggs, chopped", "1/2 cup chopped celery", "1/4 cup chopped red onion", "2 tablespoons chopped fresh parsley"],
+        "cooking_method": [
+            "Boil the potatoes until they are fork-tender, then let them cool slightly before chopping into bite-sized pieces.",
+            "In a large mixing bowl, whisk together the mayonnaise, sour cream, pickle relish, Dijon mustard, garlic powder, onion powder, paprika, salt, and pepper.",
+            "Add the chopped potatoes, chopped eggs, chopped celery, chopped red onion, and chopped parsley to the mixing bowl and stir until everything is evenly coated in the dressing.",
+            "Refrigerate the potato salad for at least an hour before serving to allow the flavors to meld together."
+        ],
+        "rating": 4.5
     },
     {
         "id": "ba2db835f8d7290d9b9e",
         "name": "Gumbo",
-        "chef_id": "5"
+        "chef_id": "5",
+        "image": "https://altonbrown.com/wp-content/uploads/2021/04/shrimpgumbo.jpeg",
+        "ingredients": [
+            "1/2 cup vegetable oil",
+            "1/2 cup all-purpose flour",
+            "1 onion, diced",
+            "1 green bell pepper, diced",
+            "2 celery stalks, diced",
+            "3 garlic cloves, minced",
+            "2 cups sliced andouille sausage",
+            "1 lb boneless skinless chicken thighs, cut into bite-sized pieces",
+            "4 cups chicken broth",
+            "1 can diced tomatoes",
+            "1 tablespoon Cajun seasoning",
+            "1 tablespoon Worcestershire sauce",
+            "1 tablespoon hot sauce",
+            "1 lb shrimp, peeled and deveined",
+            "Salt and pepper to taste",
+            "4 cups cooked white rice",
+            "Chopped green onions and parsley for garnish"
+        ],
+        "cooking_method": [
+            "In a large pot, heat the vegetable oil over medium heat.",
+            "Add the flour and stir continuously until it turns a deep brown color, about 20-25 minutes.",
+            "Add the diced onion, green bell pepper, celery, and garlic to the pot and cook for 5-7 minutes until the vegetables are softened.",
+            "Add the sliced andouille sausage and chicken to the pot and cook for another 5-7 minutes until the chicken is browned.",
+            "Pour in the chicken broth and diced tomatoes, then add the Cajun seasoning, Worcestershire sauce, and hot sauce. Stir everything together and bring to a simmer.",
+            "Let the gumbo simmer for 30-40 minutes until the flavors have melded together.",
+            "Add the shrimp to the pot and cook for another 5-7 minutes until they are pink and cooked through.",
+            "Season the gumbo with salt and pepper to taste.",
+            "Serve the gumbo over cooked white rice and garnish with chopped green onions and parsley."
+        ],
+        "rating": 4.9
     },
     {
         "id": "1a8a7ab2c60b01f12224",
         "name": "Sloppy Joes",
-        "chef_id": "4"
+        "chef_id": "4",
+        "image": "https://www.budgetbytes.com/wp-content/uploads/2022/07/Classic-Sloppy-Joes-plate.jpg",
+        "ingredients": [
+            "1 lb ground beef",
+            "1/2 cup chopped onion",
+            "1/4 cup chopped green bell pepper",
+            "1/2 cup ketchup",
+            "1/4 cup water",
+            "1 tbsp brown sugar",
+            "1 tbsp Worcestershire sauce",
+            "1 tbsp red wine vinegar",
+            "1/2 tsp garlic powder",
+            "1/2 tsp salt",
+            "1/4 tsp black pepper",
+            "6 hamburger buns"
+        ],
+        "method": [
+            "In a large skillet, cook the ground beef over medium heat until browned, stirring occasionally to break up the meat.",
+            "Add the onion and green bell pepper to the skillet and cook until softened, about 5 minutes.",
+            "Add the ketchup, water, brown sugar, Worcestershire sauce, red wine vinegar, garlic powder, salt, and black pepper to the skillet and stir to combine.",
+            "Bring the mixture to a simmer and cook until thickened, about 10-15 minutes, stirring occasionally.",
+            "Serve the Sloppy Joes on hamburger buns."
+        ],
+        "rating": 4.5
     },
     {
         "id": "cd8b69d584f62aae7cf5",
         "name": "Fried Green Tomatoes",
-        "chef_id": "5"
+        "chef_id": "5",
+        "image": "https://www.simplyrecipes.com/wp-content/uploads/2016/08/fried-green-tomatoes-horiz-a-1600.jpg",
+        "ingredients": [
+            "4 large green tomatoes",
+            "1 cup all-purpose flour",
+            "1 tsp salt",
+            "1/4 tsp black pepper",
+            "1/4 tsp cayenne pepper",
+            "1 cup buttermilk",
+            "2 eggs",
+            "2 cups panko bread crumbs",
+            "1/2 cup cornmeal",
+            "Vegetable oil for frying"
+        ],
+        "method": [
+            "Slice the tomatoes about 1/4-inch thick and discard the ends.",
+            "In a shallow bowl, mix together the flour, salt, black pepper, and cayenne pepper.",
+            "In another shallow bowl, whisk together the buttermilk and eggs.",
+            "In a third shallow bowl, mix together the panko bread crumbs and cornmeal.",
+            "Dip the tomato slices into the flour mixture, shaking off any excess, then dip them into the buttermilk mixture, and finally coat them in the panko bread crumb mixture, pressing the crumbs onto the tomatoes to adhere.",
+            "In a large skillet, heat enough vegetable oil to come about 1/2-inch up the sides of the skillet over medium-high heat.",
+            "Working in batches, fry the tomato slices until golden brown on both sides, about 2-3 minutes per side.",
+            "Drain the fried green tomatoes on paper towels and serve hot."
+        ],
+        "rating": 4.8
     },
     {
         "id": "8e1d914d44fcb5e5a5b5",
-        "name": "Collard Greens",
-        "chef_id": "2"
+        "name": "Mustard Greens",
+        "chef_id": "2",
+        "image": "https://www.thespruceeats.com/thmb/C3ZDNOMbtuUXmQN6_ti-OsDjNR8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/mustard-greens-3060133-Hero_01-e0d25796e9694abb9eed7f5064466bda.jpg",
+        "ingredients": [
+            "1 bunch mustard greens, washed and chopped",
+            "1 tbsp olive oil",
+            "1 small onion, chopped",
+            "2 cloves garlic, minced",
+            "1/2 tsp red pepper flakes",
+            "1/2 cup chicken or vegetable broth",
+            "Salt and pepper, to taste"
+        ],
+        "cooking_method": [
+            "Heat the olive oil in a large skillet over medium heat.",
+            "Add the onion and cook until softened, about 5 minutes.",
+            "Add the garlic and red pepper flakes and cook for 1 minute.",
+            "Add the mustard greens and broth to the skillet.",
+            "Season with salt and pepper.",
+            "Cook until the greens are wilted and tender, about 10-15 minutes.",
+            "Serve hot."
+        ],
+        "rating": 4.5
+
     }
 ]
