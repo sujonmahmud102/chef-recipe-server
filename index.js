@@ -1,6 +1,6 @@
 const express = require('express');
 const app = express();
-const port = 5000;
+const port = 3000;
 const cors = require('cors');
 
 app.use(cors())
@@ -24,7 +24,7 @@ app.get('/recipes/:id', (req, res) => {
     const id = req.params.id;
     const selectedRecipe = recipes.find(r => r.id === id);
     res.send(selectedRecipe);
-    
+
 })
 
 app.get('/chef/:id', (req, res) => {
